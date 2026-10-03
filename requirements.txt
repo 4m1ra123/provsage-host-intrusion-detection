@@ -1,0 +1,28 @@
+# Core (STGAN baseline)
+torch==1.12.0+cu113
+torch-geometric==2.1.0
+torch-cluster==1.6.0+pt112cu113
+torch-scatter==2.0.9
+torch-sparse==0.6.15+pt112cu113
+torch-spline-conv==1.2.1+pt112cu113
+dgl==1.0.0
+scikit-learn==1.1.1
+xgboost==0.90
+gensim==4.3.0
+networkx==3.0
+
+# Data / scientific stack
+numpy
+pandas
+scipy
+joblib
+tqdm
+
+# Embeddings (C1 — BERT / EmbeddingGemma)
+sentence-transformers
+
+# Visualization (C3)
+matplotlib
+
+# Investigation demo CLI (code/eval/demo.py)
+rich

@@ -1,0 +1,19 @@
+{
+  "tp_anchors_count": 7,
+  "tp_anchors_ids": [
+    "298C5C47-49C3-7A6F-3B5E-3E84E9D0AE41",
+    "276AC832-0922-F591-B29C-FC802E5CECA4",
+    "B959F1CB-3278-099E-FC0B-667046E613ED",
+    "D340A283-C609-8949-53C7-DCA77846D0CA",
+    "2CCFD465-DE8C-52A5-BCB1-CD1DD9A7CED7",
+    "D6933763-F2B9-F41E-27BE-12648210DE4D",
+    "6F68B2F6-2CCF-F606-CC8A-7CC07CC0768F"
+  ],
+  "closure_size": 254,
+  "tp_in_closure": 10,
+  "fp_in_closure": 244,
+  "precision": 0.03937007874015748,
+  "recall_vs_full_gt": 0.0001466856380091825,
+  "compression_vs_graph": 0.00020966592953408763,
+  "subgraph_edges": 1066
+}

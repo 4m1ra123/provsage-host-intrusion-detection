@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Datasets & large runtime artifacts (see README §4 — downloaded separately)
+data/
+trained_weights/
+*.log
+
+# Embedding caches regenerated on first run (see README §5)
+*_embedding_cache/
+*.cache
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets — never commit tokens or credentials
+.env
+*.env
